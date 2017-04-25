@@ -1,2 +1,2 @@
 # hackerrank
-my code pratice  with c++
+My code pratice  with c++
